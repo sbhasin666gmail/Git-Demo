@@ -4,3 +4,5 @@ New line added
 
 Hello this is new commit
 New change added
+
+Addition function
